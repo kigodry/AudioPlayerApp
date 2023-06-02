@@ -1,0 +1,15 @@
+C:\Users\ivano\Desktop\C#\Apps\AudioPlayerApp\AudioPlayerApp\bin\Debug\AudioPlayerApp.exe.config
+C:\Users\ivano\Desktop\C#\Apps\AudioPlayerApp\AudioPlayerApp\bin\Debug\AudioPlayerApp.exe
+C:\Users\ivano\Desktop\C#\Apps\AudioPlayerApp\AudioPlayerApp\bin\Debug\AudioPlayerApp.pdb
+C:\Users\ivano\Desktop\C#\Apps\AudioPlayerApp\AudioPlayerApp\obj\Debug\AudioPlayerApp.csproj.AssemblyReference.cache
+C:\Users\ivano\Desktop\C#\Apps\AudioPlayerApp\AudioPlayerApp\obj\Debug\AudioPlayerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivano\Desktop\C#\Apps\AudioPlayerApp\AudioPlayerApp\obj\Debug\MainWindow.baml
+C:\Users\ivano\Desktop\C#\Apps\AudioPlayerApp\AudioPlayerApp\obj\Debug\MainWindow.g.cs
+C:\Users\ivano\Desktop\C#\Apps\AudioPlayerApp\AudioPlayerApp\obj\Debug\App.g.cs
+C:\Users\ivano\Desktop\C#\Apps\AudioPlayerApp\AudioPlayerApp\obj\Debug\AudioPlayerApp_MarkupCompile.cache
+C:\Users\ivano\Desktop\C#\Apps\AudioPlayerApp\AudioPlayerApp\obj\Debug\AudioPlayerApp.g.resources
+C:\Users\ivano\Desktop\C#\Apps\AudioPlayerApp\AudioPlayerApp\obj\Debug\AudioPlayerApp.Properties.Resources.resources
+C:\Users\ivano\Desktop\C#\Apps\AudioPlayerApp\AudioPlayerApp\obj\Debug\AudioPlayerApp.csproj.GenerateResource.cache
+C:\Users\ivano\Desktop\C#\Apps\AudioPlayerApp\AudioPlayerApp\obj\Debug\AudioPlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\ivano\Desktop\C#\Apps\AudioPlayerApp\AudioPlayerApp\obj\Debug\AudioPlayerApp.exe
+C:\Users\ivano\Desktop\C#\Apps\AudioPlayerApp\AudioPlayerApp\obj\Debug\AudioPlayerApp.pdb
